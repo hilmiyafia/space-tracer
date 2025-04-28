@@ -1,7 +1,7 @@
 # Space Tracer (Flame Jam 2025)
-The code for Space Tracer will be uploaded here.
+This repository contains the code for Space Tracer.
 
-You will be able to play the game here: [Itch.io Space Tracer](https://hilmiyafia.itch.io/space-tracer)
+You can play the game here: [Itch.io Space Tracer](https://hilmiyafia.itch.io/space-tracer)
 
 ## Screenshot
 <p align="center">
